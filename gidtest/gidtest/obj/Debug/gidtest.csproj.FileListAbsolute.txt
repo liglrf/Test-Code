@@ -1,0 +1,10 @@
+D:\gidtest\gidtest\bin\Debug\gidtest.exe.config
+D:\gidtest\gidtest\bin\Debug\gidtest.exe
+D:\gidtest\gidtest\bin\Debug\gidtest.pdb
+D:\gidtest\gidtest\obj\Debug\gidtest.csprojAssemblyReference.cache
+D:\gidtest\gidtest\obj\Debug\gidtest.Form1.resources
+D:\gidtest\gidtest\obj\Debug\gidtest.Properties.Resources.resources
+D:\gidtest\gidtest\obj\Debug\gidtest.csproj.GenerateResource.cache
+D:\gidtest\gidtest\obj\Debug\gidtest.exe
+D:\gidtest\gidtest\obj\Debug\gidtest.pdb
+D:\gidtest\gidtest\obj\Debug\gidtest.csproj.CoreCompileInputs.cache
